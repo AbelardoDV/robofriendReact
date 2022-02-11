@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState,useEffect} from 'react';
 import CardList from '../components/CardList';
 import { robots } from '../robots';
 import SearchBox from '../components/search_box'
